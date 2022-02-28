@@ -3,7 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioDaEsfera", "DesafioDaEsfera\DesafioDaEsfera.csproj", "{BA9BE7A2-1A51-4DEB-9321-5285F88A0AB6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesafioDaEsfera", "DesafioDaEsfera\DesafioDaEsfera.csproj", "{BA9BE7A2-1A51-4DEB-9321-5285F88A0AB6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesafioNoel", "DesafioNoel\DesafioNoel.csproj", "{3C4B81F0-BF94-43AC-87CD-A4B2E2E40539}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesafioXenlonguinho", "Xenlonguinho\DesafioXenlonguinho.csproj", "{8ED794C6-B64F-44F3-9231-7ECD418B1B00}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesafioDivisaoXY", "Teste\DesafioDivisaoXY.csproj", "{67910277-0DD3-48D1-975E-D42161C4E869}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesafioJoias", "Pedro_Bento_Joias\DesafioJoias.csproj", "{F2024B52-DEF3-48D7-8579-1D9B3A9B54E5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +23,22 @@ Global
 		{BA9BE7A2-1A51-4DEB-9321-5285F88A0AB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BA9BE7A2-1A51-4DEB-9321-5285F88A0AB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BA9BE7A2-1A51-4DEB-9321-5285F88A0AB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C4B81F0-BF94-43AC-87CD-A4B2E2E40539}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C4B81F0-BF94-43AC-87CD-A4B2E2E40539}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C4B81F0-BF94-43AC-87CD-A4B2E2E40539}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C4B81F0-BF94-43AC-87CD-A4B2E2E40539}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8ED794C6-B64F-44F3-9231-7ECD418B1B00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ED794C6-B64F-44F3-9231-7ECD418B1B00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ED794C6-B64F-44F3-9231-7ECD418B1B00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ED794C6-B64F-44F3-9231-7ECD418B1B00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67910277-0DD3-48D1-975E-D42161C4E869}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67910277-0DD3-48D1-975E-D42161C4E869}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67910277-0DD3-48D1-975E-D42161C4E869}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67910277-0DD3-48D1-975E-D42161C4E869}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2024B52-DEF3-48D7-8579-1D9B3A9B54E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2024B52-DEF3-48D7-8579-1D9B3A9B54E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2024B52-DEF3-48D7-8579-1D9B3A9B54E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2024B52-DEF3-48D7-8579-1D9B3A9B54E5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
